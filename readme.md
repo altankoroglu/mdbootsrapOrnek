@@ -1,0 +1,1 @@
+buraya birinci satırı yazdım.
